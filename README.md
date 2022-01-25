@@ -20,6 +20,7 @@ Languages and technologies that I have worked with 🙌
 
 🗃 Firebase
 🗃 MySQL 
+🗃 SQL Server
 🗃 InfluxDB
 
 🪁 Grafana
