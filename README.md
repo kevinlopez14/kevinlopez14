@@ -13,6 +13,7 @@ Languages and technologies that I have worked with 🙌
 ✔ C#
 ✔ Visual Basic .NET
 ✔ SQL
+✔ Python
 
 🚀 VueJS
 🚀 Laravel
